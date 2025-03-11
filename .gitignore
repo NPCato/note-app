@@ -1,0 +1,16 @@
+*.pyc
+__pycache__/
+
+venv/
+env/
+
+.env
+.flaskenv
+instance/
+
+
+*.sqlite3
+*.db
+
+*.log
+.cache/
